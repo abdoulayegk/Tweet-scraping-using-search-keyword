@@ -1,0 +1,6 @@
+snscrape
+tqdm
+pandas
+seaborn
+plotly
+matplotlib
